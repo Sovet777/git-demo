@@ -1,4 +1,7 @@
-Just testing my 1st 
+Just testing my 1st
 repo
 Adding 2 more lines to song 
 to test my 1st repo
+
+Testing the song file
+from git gui
